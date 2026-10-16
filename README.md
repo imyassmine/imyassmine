@@ -12,4 +12,4 @@ Open to a **6-month internship in AI Engineering / MLOps**, starting January 202
 
 📫 Feel free to reach out: [Email me](mailto:yassmine.abdallah42@gmail.com)
 
-### Featured Projects ↓
+### Featured Projects ⤵
