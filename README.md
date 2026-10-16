@@ -8,15 +8,7 @@ I'm interested in building reliable AI systems, from LLM applications and retrie
 
 **Tools:** Linux, Git, Docker
 
-### Selected Projects
-
-| Project | Description |
-|:--|:--|
-| [RAG](https://github.com/Yassmine-ab/RAG) | Retrieval-Augmented Generation with TF-IDF, BM25 and Qwen3-0.6B. |
-| [CALL-ME-MAYBE](https://github.com/Yassmine-ab/CALL-ME-MAYBE) | LLM function calling with constrained decoding and structured JSON outputs. |
-| [MINISHELL](https://github.com/Yassmine-ab/MINISHELL) | Unix shell implementation in C. |
-| [INCEPTION](https://github.com/Yassmine-ab/INCEPTION) | Containerized infrastructure with Docker, NGINX and MariaDB. |
-| [FT-IRC](https://github.com/Yassmine-ab/FT-IRC) | Multi-client IRC server in C++. |
+Here are some of my favourite projects :
 
 Open to a **6-month internship in AI Engineering / MLOps**, starting January 2027.
 
