@@ -1,6 +1,4 @@
-## Hi, there!
-
-I'm Yassmine, a software engineer with 6+ years of experience in materials engineering, currently transitioning into AI Engineering and MLOps at École 42.
+Hi I'm Yassmine, a software engineer with 6+ years of experience in materials engineering, currently transitioning into AI Engineering and MLOps at École 42.
 
 I'm interested in building reliable AI systems, from LLM applications and retrieval pipelines to the software infrastructure that brings them into production.
 
