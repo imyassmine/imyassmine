@@ -18,8 +18,6 @@ I'm interested in building reliable AI systems, from LLM applications and retrie
 | [INCEPTION](https://github.com/Yassmine-ab/INCEPTION) | Containerized infrastructure with Docker, NGINX and MariaDB. |
 | [FT-IRC](https://github.com/Yassmine-ab/FT-IRC) | Multi-client IRC server in C++. |
 
-### Internship
-
 Open to a **6-month internship in AI Engineering / MLOps**, starting January 2027.
 
-[![Email](https://img.shields.io/badge/Contact-C8753D?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+📫 Feel free to reach out: [](mailto:yassmine.abdallah42@gmail.com)
