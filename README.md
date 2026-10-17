@@ -3,6 +3,7 @@ Hi, I'm Yassmine, a software engineer based in Paris, France.
 After 6+ years in materials engineering, I'm now specializing in AI Engineering and MLOps at École 42.
 
 I'm interested in understanding systems from the ground up - from low-level programming and concurrency to LLM applications, retrieval pipelines, and the infrastructure behind them.
+
 **Tech stack:** Python · C · C++ · Go · Shell
 
 **Tools:** Linux · Git · Docker
