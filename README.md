@@ -2,14 +2,13 @@ Hi, I'm Yassmine, a software engineer based in Paris, France.
 
 After 6+ years in materials engineering, I'm now specializing in AI Engineering and MLOps at École 42.
 
-I'm interested in building reliable AI systems, from LLM applications and retrieval pipelines to the software infrastructure that brings them into production.
+I'm interested in understanding systems from the ground up - from low-level programming and concurrency to LLM applications, retrieval pipelines, and the infrastructure behind them.
+**Tech stack:** Python · C · C++ · Go · Shell
 
-**Tech stack:** Python, C, C++, Go, Shell
+**Tools:** Linux · Git · Docker
 
-**Tools:** Linux, Git, Docker
+**Currently looking for:** a 6-month internship in AI Engineering / MLOps, starting January 2027.
 
-Open to a **6-month internship in AI Engineering / MLOps**, starting January 2027.
-
-📫 Feel free to reach out: [Email me](mailto:yassmine.abdallah42@gmail.com)
+📫 [Get in touch](mailto:yassmine.abdallah42@gmail.com)
 
 ### Featured Projects ⤵
