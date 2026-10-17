@@ -10,6 +10,4 @@ I'm interested in understanding systems from the ground up - from low-level prog
 
 **Currently looking for:** a 6-month internship in AI Engineering / MLOps, starting January 2027.
 
-📫 [Get in touch](mailto:yassmine.abdallah42@gmail.com)
-
-### Featured Projects ⤵
+[Get in touch](mailto:yassmine.abdallah42@gmail.com)
