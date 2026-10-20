@@ -1,6 +1,6 @@
 Hi, I'm Yassmine, a software engineer based in Paris, France.
 
-After 6+ years in materials engineering, I'm now specializing in AI Engineering and MLOps at École 42.
+After 6+ years in materials engineering, I'm now specializing in AI Engineering and MLOps at 42 Paris.
 
 I'm interested in understanding systems from the ground up - from low-level programming and concurrency to LLM applications, retrieval pipelines, and the infrastructure behind them.
 
